@@ -1,0 +1,45 @@
+# ==========================
+# Jupyter Notebook
+# ==========================
+
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ==========================
+# Python cache
+# ==========================
+
+__pycache__/
+*.pyc
+*$py.class
+
+# ==========================
+# Dados (opcional – remover se quiser versionar dados)
+# ==========================
+
+data/*.csv
+data/*.xlsx
+data/*.json
+
+# ==========================
+# Relatórios gerados automaticamente
+# ==========================
+
+reports/*.pdf
+reports/*.png
+reports/*.jpg
+
+# ==========================
+# Sistema
+# ==========================
+
+.DS_Store
+Thumbs.db
+
+# ==========================
+# Outros temporários
+# ==========================
+
+*.log
+*.tmp
+*.bak
