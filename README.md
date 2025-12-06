@@ -55,10 +55,9 @@ Fonte: Kaggle – Video Game Sales Dataset
 O relatório final, contendo gráficos e interpretações completas, está localizado em:
 reports/relatorio_completo.pdf
 
-Autor
+**Autor**
 João Victor
-GitHub: midnightrain-jv
+GitHub: midnightrain-jv / Linkedin: https://www.linkedin.com/in/itsmejvictor/
 
-Licença
-Uso acadêmico.
-O conteúdo pode ser reutilizado desde que o autor seja creditado.
+**Licença**
+Uso acadêmico (O conteúdo pode ser reutilizado desde que o autor seja creditado).
