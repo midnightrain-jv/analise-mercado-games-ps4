@@ -1,4 +1,4 @@
-Análise do Mercado de Games para PlayStation 4
+**Análise do Mercado de Games para PlayStation 4**
 
 
 
@@ -6,37 +6,31 @@ Projeto de análise de dados baseado no conjunto PS4 Games Sales, com foco em co
 
 
 
-Descrição
+**Descrição**
 
 O projeto realiza uma análise exploratória utilizando notebooks Jupyter para gerar insights sobre o mercado de jogos para PS4.
 
 
 
-Objetivos
+**Objetivos**
 
 
 
 Identificar os gêneros mais vendidos
 
-
-
 Analisar vendas por regiões
-
-
 
 Avaliar tendências ao longo do tempo
 
-
-
 Gerar gráficos e insights
-
-
 
 Produzir um relatório final
 
 
 
-Estrutura do Projeto
+**Estrutura do Projeto**
+
+
 
 data/ – contém os dados originais
 
@@ -50,33 +44,29 @@ README.md – documentação do projeto
 
 
 
-Como executar
+**Como executar**
 
 
 
-Clone o repositório
+* *Clone o repositório*
 
 git clone https://github.com/midnightrain-jv/analise-mercado-games-ps4.git
 
 
 
-Entre na pasta do projeto
+* *Entre na pasta do projeto*
 
 cd analise-mercado-games-ps4
 
 
 
-Abra os notebooks
+* *Abra os notebooks*
 
-jupyter notebook
-
-ou
-
-jupyter lab
+jupyter notebook ou jupyter lab
 
 
 
-Fontes
+**Fontes**
 
 Os dados utilizados estão no arquivo: data/PS4\_GamesSales.csv
 
@@ -84,17 +74,13 @@ Fonte: Kaggle – Video Game Sales Dataset
 
 
 
-Autor
+**Autor**
 
 João Victor (midnightrain-jv)
 
 
 
-Licença
+**Licença**
 
 Uso acadêmico. Pode ser reutilizado com crédito ao autor.
-
-
-
-
 
